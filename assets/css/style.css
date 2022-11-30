@@ -1,0 +1,12 @@
+html, body {
+    margin: 0;
+    background-color: #2F4F30;
+    color:white;
+}
+.carta {
+    position: relative;
+    width: 120px;
+    left: 100px;
+    margin-left: -75px;
+}
+
