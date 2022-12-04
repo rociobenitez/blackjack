@@ -8,7 +8,15 @@ El objetivo de cualquier mano de blackjack es derrotar a la banca. Para esto, de
 
 [¡Vamos a jugar!](https://rociobenitez.github.io/blackjack/)
 
+<br>
+
 ## Notas:
 
 - Para comenzar el juego debes clicar en 'Nuevo juego'.
 - Después, ya podrás pedir las cartas.
+
+<br>
+
+##
+
+![Blackjack game image](https://github.com/rociobenitez/blackjack/blob/main/assets/blackjack-image.png)
